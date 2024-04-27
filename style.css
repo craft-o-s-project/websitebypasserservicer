@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'Plus Jakarta Sans';
-	src: URL('PlusJakartaSans.ttf') format('truetype');
+	src: URL('https://github.com/craft-o-s-project/websitebypasserservicer/raw/main/PlusJakartaSans.ttf') format('truetype');
 }
 body, html {
 	overflow: hidden;
